@@ -46,4 +46,7 @@ Follow these steps to set up the project locally:
     http://localhost:5173
     ```
 
+    ![image](https://github.com/user-attachments/assets/8d124865-7261-4b96-bd3e-c12b334a6001)
+
+
 
